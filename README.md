@@ -4,9 +4,6 @@ The goal of the game is to flood the board with the same color.
 The game ends when there are no remaining cells to flood.
 The winner is who has the most number of cells at the end of the game.
 
-![Design]
-(http://kepfeltoltes.hu/150916/colorflood_www.kepfeltoltes.hu_.png)
-
 # Prerequisites
 - Qt5
 
@@ -20,4 +17,3 @@ make
 ```
 ./ColorFlood
 ```
-
